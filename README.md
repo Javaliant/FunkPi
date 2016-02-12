@@ -1,4 +1,4 @@
-#Raspberry Pi Funk Button
+#Raspberry Pi Party Button
 [![Code Review](http://www.zomis.net/codereview/shield/?qid=107343&mode=score)](http://codereview.stackexchange.com/q/107343/49181)
 
 Made to practice Python, Networking, working with Linux, I/O.
